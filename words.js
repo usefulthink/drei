@@ -95,7 +95,7 @@ var Words;
         window.setInterval(function() {
             w.nextImage();
             body.css({ backgroundColor: colorset.next() })
-        }, 5000);
+        }, 8000);
     });
 } (this.jQuery, this));
 
